@@ -2,7 +2,7 @@
 name = "lictool"
 authors = ["Charles R. Tyrrell <alloyshaper@proton.me>"]
 description = "Lictool is a utility that will help you quickly add a spdx license to your project right from the command line"
-repository = "https://gitlab.com/alloyshaper/lictool.git"
+repository = "https://github.com/fracturesky/lictool.git"
 keywords = ["license-generator", "spdx", "cli", "license", "developer-tool"]
 categories = ["command-line-utilities", "asynchronous"]
 version = "0.5.0"
